@@ -1,0 +1,15 @@
+D:\VScode\serAsy\bin\Debug\net6.0\serAsy.exe
+D:\VScode\serAsy\bin\Debug\net6.0\serAsy.deps.json
+D:\VScode\serAsy\bin\Debug\net6.0\serAsy.runtimeconfig.json
+D:\VScode\serAsy\bin\Debug\net6.0\serAsy.dll
+D:\VScode\serAsy\bin\Debug\net6.0\serAsy.pdb
+D:\VScode\serAsy\obj\Debug\net6.0\serAsy.csproj.AssemblyReference.cache
+D:\VScode\serAsy\obj\Debug\net6.0\serAsy.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\serAsy\obj\Debug\net6.0\serAsy.AssemblyInfoInputs.cache
+D:\VScode\serAsy\obj\Debug\net6.0\serAsy.AssemblyInfo.cs
+D:\VScode\serAsy\obj\Debug\net6.0\serAsy.csproj.CoreCompileInputs.cache
+D:\VScode\serAsy\obj\Debug\net6.0\serAsy.dll
+D:\VScode\serAsy\obj\Debug\net6.0\refint\serAsy.dll
+D:\VScode\serAsy\obj\Debug\net6.0\serAsy.pdb
+D:\VScode\serAsy\obj\Debug\net6.0\serAsy.genruntimeconfig.cache
+D:\VScode\serAsy\obj\Debug\net6.0\ref\serAsy.dll
